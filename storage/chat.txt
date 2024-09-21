@@ -1,0 +1,9 @@
+
+Syzygy Group: Your order has been accepted.
+Syzygy Group: Your order is being cooked.
+Syzygy Group: Your order is being packed.
+Syzygy Group: Your order has been accepted.
+Syzygy Group: Your order is being cooked.
+Syzygy Group: Your order is being packed.
+Syzygy Group: Your order is being completed. It will be delivered to your doorstep..
+Customer: thank you
